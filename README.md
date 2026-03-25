@@ -1,44 +1,101 @@
-# chukwuemeka-analytics-portfolio
-Senior Power BI Developer Portfolio | Data Analytics | Business Intelligence Projects
+# 👋 Hi, I'm Chukwuemeka I. Anyakwu
+
+### Senior Power BI Developer | Analytics Engineer | BI Consultant
+
+I design and deliver enterprise-grade analytics solutions that transform complex data into executive-ready dashboards, scalable semantic models, and actionable business insights.
 
 ---
 
-## 🚀 Overview
+## 🚀 What I Do
 
-This repository contains my analytics portfolio, showcasing enterprise-grade Power BI solutions, data modelling expertise, and business-focused dashboard design.
-
-I specialize in building scalable analytics systems that transform complex datasets into clear, actionable insights for executive decision-making.
-
----
-
-## 🎯 Core Focus Areas
-
-- Power BI Semantic Modelling (Star Schema, Performance Optimization)
-- Advanced DAX (Time Intelligence, Context Transition, KPI Logic)
-- Data Transformation (SQL, Power Query, ETL Design)
-- Executive Dashboard Design (Storytelling, UX, KPI Framing)
-- Analytics Engineering & Reporting Solutions
+- Build high-performance Power BI dashboards for executive decision-making  
+- Design scalable data models using star schema and dimensional modeling  
+- Optimize DAX for performance and maintainability  
+- Transform and integrate data using Power Query (ETL)  
+- Deliver end-to-end BI solutions using Power BI Service and deployment pipelines  
+- Apply consulting mindset to solve real business problems with data  
 
 ---
 
-## 📊 Featured Project
+## 🧠 Core Expertise
 
-### 🔷 Power BI Sales Performance Dashboard
+- Power BI (Desktop & Service)
+- DAX (Advanced)
+- Power Query (M Language)
+- Data Modeling (Star Schema)
+- SQL
+- Data Visualization & Storytelling
+- Performance Optimization (VertiPaq, Aggregations)
+- Incremental Refresh & Large Datasets
+- Row Level Security (RLS)
+- Azure DevOps & CI/CD
+- Power BI Governance & Deployment Pipelines
 
-An end-to-end business intelligence solution designed to analyze revenue, profit, customer behavior, and regional performance.
+---
 
-#### 📌 Key Features:
-- Executive KPI dashboard (Revenue, Profit, Margin)
-- Time intelligence (YoY, MoM, Rolling Trends)
-- Customer segmentation (New, Repeat, Loyal, Power Buyers)
-- Regional and category performance analysis
-- Target vs Actual performance tracking
-- Drillthrough and interactive navigation
+## 📊 Featured Projects
 
-#### 🧠 Technical Highlights:
-- Star schema data model
-- Optimized DAX measures (performance-focused)
-- Context-aware calculations using `CALCULATE`, `FILTER`, `ALL.`
-- Clean and scalable semantic layer design
+### 🔹 Executive Sales Dashboard
+Designed an executive dashboard to track revenue, profit, margin, and YoY performance across regions and products.  
+Built using a star schema model with optimized DAX measures and interactive drill-through capabilities.
 
-#### 📂 Project Structure:
+---
+
+### 🔹 Customer Segmentation Analysis
+Segmented customers into behavioral groups based on revenue and order patterns.  
+Enabled business stakeholders to identify high-value customers and growth opportunities.
+
+---
+
+### 🔹 Regional Performance Dashboard
+Analyzed country and regional performance using KPI tracking and variance analysis.  
+Improved visibility into top-performing and underperforming regions.
+
+---
+
+### 🔹 Product & Category Performance
+Developed insights into product profitability, margin drivers, and top-performing categories.  
+Used advanced DAX for ranking, YoY analysis, and contribution metrics.
+
+---
+
+### 🔹 Power BI Deployment & Governance
+Implemented Dev → Test → Prod pipelines using Power BI Service and Azure DevOps.  
+Ensured version control, dataset validation, and structured deployment.
+
+---
+
+## 🛠️ Tools & Technologies
+
+Power BI • DAX • Power Query • SQL • Excel • Azure DevOps • Git • Data Modeling • ETL • Analytics Engineering
+
+---
+
+## 📈 My Approach
+
+I focus on delivering analytics solutions that are:
+
+- Scalable → Built on strong data models  
+- Performant → Optimized for large datasets  
+- Insightful → Designed for decision-making  
+- User-friendly → Clean, intuitive dashboards  
+
+---
+
+## 🌍 Location
+
+📍 Calgary, Alberta, Canada  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/chukwuemekaanyakwu2409
+- 📧 Email: Chuks.Isaac70@gmail.com
+- 💼 Portfolio: YOUR_PORTFhtOLIO_LINK
+
+---
+
+## ⚡ Fun Fact
+
+I approach every dashboard like a consulting deliverable — not just visuals, but a tool for better business decisions.
