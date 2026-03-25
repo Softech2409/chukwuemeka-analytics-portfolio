@@ -5,7 +5,7 @@ Senior Power BI Developer Portfolio | Data Analytics | Business Intelligence Pro
 
 ## 🚀 Overview
 
-This repository contains my analytics portfolio, showcasing enterprise-grade Power BI solutions, data modeling expertise, and business-focused dashboard design.
+This repository contains my analytics portfolio, showcasing enterprise-grade Power BI solutions, data modelling expertise, and business-focused dashboard design.
 
 I specialize in building scalable analytics systems that transform complex datasets into clear, actionable insights for executive decision-making.
 
@@ -13,7 +13,7 @@ I specialize in building scalable analytics systems that transform complex datas
 
 ## 🎯 Core Focus Areas
 
-- Power BI Semantic Modeling (Star Schema, Performance Optimization)
+- Power BI Semantic Modelling (Star Schema, Performance Optimization)
 - Advanced DAX (Time Intelligence, Context Transition, KPI Logic)
 - Data Transformation (SQL, Power Query, ETL Design)
 - Executive Dashboard Design (Storytelling, UX, KPI Framing)
@@ -38,7 +38,7 @@ An end-to-end business intelligence solution designed to analyze revenue, profit
 #### 🧠 Technical Highlights:
 - Star schema data model
 - Optimized DAX measures (performance-focused)
-- Context-aware calculations using `CALCULATE`, `FILTER`, `ALL`
+- Context-aware calculations using `CALCULATE`, `FILTER`, `ALL.`
 - Clean and scalable semantic layer design
 
 #### 📂 Project Structure:
